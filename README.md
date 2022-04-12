@@ -1,4 +1,4 @@
-# Using
+# Using Tech
 
 ### frontend
 Next.js
