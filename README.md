@@ -1,13 +1,19 @@
 # Using Tech
 
+### languege
+Typescript
+
 ### frontend
 Next.js
+
 GraphQL
 
 
 ### backend
 Nestjs
+
 GraphQL
+
 Prisma
 
 ### infra
